@@ -5,6 +5,8 @@ source ~/.config/nvim/plugins.vim
 " Remap leader key to space
 let g:mapleader=" "
 
+set encoding=UTF-8
+
 " Set number line
 set number
 set mouse=a
